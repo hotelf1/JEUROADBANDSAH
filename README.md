@@ -1,4 +1,6 @@
-![Game Jam Roadbands !](images/titre.png)
+<p align="center">
+    <img src="images/titre.png">
+</p>
 
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
@@ -13,8 +15,11 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [Les prix à gagner](#les-prix)
 - [FAQ](#faq)
 
-![Jouer au jeu](images/titre1.png)
-<a name="jouer-au-jeu"></a>
+<p align="center">
+    <a name="jouer-au-jeu">
+        <img src="images/titre1.png">
+    </a>
+</p>
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
@@ -28,16 +33,19 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 
 Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Road Bands [sur Android](https://play.google.com/store/apps/details?id=fr.hf1.roadband) et [sur iOS](https://itunes.apple.com/app/id1256521725), ou sur [roadbands.com](http://www.roadbands.com) tout de suite et gratuitement !
 
-<p>
+<p align="center">
     <a target="_blank" href="https://play.google.com/store/apps/details?id=fr.hf1.roadband"><img src="images/android.png" alt="Android"/></a>
 </p>
 
-<p>
+<p align="center">
     <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="images/iphone.png" alt="iPhone"/></a>
 </p>
 
-![Faire la Game Jam](images/titre2.png)
-<a name="faire-la-game-jam"></a>
+<p align="center">
+    <a name="faire-la-game-jam">
+        <img src="images/titre2.png">
+    </a>
+</p>
 
 <p align="center">
     <img src="images/intro.gif">
@@ -45,9 +53,9 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 
 Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, être récompensé(e) par de nombreux prix ! De plus, vos niveaux feront parti de la version finale du jeu disponible sur internet et smartphone.
 
-Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) où vous trouverez toutes les réponses à vos questions techniques.
+Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/Tuto.md) où vous trouverez toutes les réponses à vos questions techniques.
 
-Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands.com/gamejam
+Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands/gamejam/formulaire.fr
 
 Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 - être jouable en webGL et sur smartphone
@@ -56,10 +64,12 @@ Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 
 Un petit tutoriel en introduction est aussi plus que bienvenue ! ;-)
 
-Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-du-concours.md).
+Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-de-concours.pdf).
 
-![Les prix à gagner](images/titre3.png)
 <a name="les-prix"></a>
+<p align="center">
+    <img src="images/titre3.png">
+</p>
 
 <p align="center">
     <img src="images/prix.gif">
@@ -67,15 +77,18 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
 
 À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui en sélectionnera 8. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner un prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
 
-- **Premier prix** : une mini borne d’arcade d’une valeur indicative de 1500 € TTC
-- **Deuxième et troisième prix** : une console de jeu d’une valeur indicative de 329,99€
-- **Quatrième et cinquième prix** : une console de jeu d’une valeur indicative de 59,99 €
-- **Du sixième au huitième prix** : une console de jeu d’une valeur indicative de 54,99 €
+- **Premier prix** : une mini borne d’arcade Neo Legend d’une valeur indicative de 1500 € TTC
+- **Deuxième et troisième prix** : une console de jeu Nintendo Switch d’une valeur indicative de 329,99€
+- **Quatrième et cinquième prix** : une console de jeu  E-CONCEPT SEGA MEGA DRIVE d’une valeur indicative de 59,99 €
+- **Du sixième au huitième prix** : une console de jeu E-CONCEPT ATARI FLASHBACK 7 d’une valeur indicative de 54,99 €
 
-![Foire aux questions](images/titre4.png)
 <a name="faq"></a>
+<p align="center">
+    <img src="images/titre4.png">
+</p>
+
 ### Comment créer mon niveau de Roadbands ?
-Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) ;-)
+Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/Tuto.md) ;-)
 
 ### Jusqu'à quelle date puis-je participer ?
 La date limite de soumission de votre niveau est le dimanche 1er octobre 2017 à 23h59.
@@ -87,7 +100,7 @@ Absolument.
 Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
-Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici : http://www.roadbands.com/gamejam
+Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici : http://www.roadbands/gamejam/formulaire.fr. 
 
 ### Puis-je créer plusieurs niveaux ?
 Oui, mais nous vous conseillons de privilégier la qualité à la quantité :-)
