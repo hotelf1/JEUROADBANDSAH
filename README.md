@@ -73,7 +73,7 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
 
 Le jury devra décerner un prix au gagnant.
 
-- **Premier prix** : une mini borne d’arcade d’une valeur indicative de 1500 € TTC
+- **Premier prix** : une mini borne d’arcade NEO LEGEND d’une valeur indicative de 1500 € TTC
 - **Deuxième et troisième prix** : une console de jeu d’une valeur indicative de 329,99€
 - **Quatrième et cinquième prix** : une console de jeu d’une valeur indicative de 59,99 €
 - **Du sixième au huitième prix** : une console de jeu d’une valeur indicative de 54,99 €
